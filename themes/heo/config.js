@@ -103,7 +103,7 @@ const CONFIG = {
       img_1: '/images/heo/jslh.png',
       color_1: '#f7cb4f',
       title_2: 'HTML',
-      img_2: '/images/heo/202372b4d760fd8a497d442140c295655426070302.webp',
+      img_2: '/images/heo/xf.png',
       color_2: '#e9572b'
     },
     {
