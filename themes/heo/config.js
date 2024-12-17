@@ -60,7 +60,7 @@ const CONFIG = {
   HEO_GROUP_ICONS: [
     {
       title_1: 'AfterEffect',
-      img_1: '/images/heo/20239df3f66615b532ce571eac6d14ff21cf072602.webp',
+      img_1: '/images/heo/SDL.png',
       color_1: '#989bf8',
       title_2: 'Sketch',
       img_2: '/images/heo/2023e0ded7b724a39f12d59c3dc8fbdc7cbe074202.webp',
@@ -71,12 +71,12 @@ const CONFIG = {
       img_1: '/images/heo/20231108a540b2862d26f8850172e4ea58ed075102.webp',
       color_1: '#57b6e6',
       title_2: 'Photoshop',
-      img_2: '/images/heo/2023e4058a91608ea41751c4f102b131f267075902.webp',
+      img_2: '/images/heo/AITY.png',
       color_2: '#4082c3'
     },
     {
       title_1: 'FinalCutPro',
-      img_1: '/images/heo/20233e777652412247dd57fd9b48cf997c01070702.webp',
+      img_1: '/images/heo/shcs.png',
       color_1: '#ffffff',
       title_2: 'Python',
       img_2: '/images/heo/20235c0731cd4c0c95fc136a8db961fdf963071502.webp',
@@ -92,7 +92,7 @@ const CONFIG = {
     },
     {
       title_1: 'illustrator',
-      img_1: '/images/heo/20237359d71b45ab77829cee5972e36f8c30073902.webp',
+      img_1: '/images/heo/HGYJ.png',
       color_1: '#f29e39',
       title_2: 'CSS3',
       img_2: '/images/heo/20237c548846044a20dad68a13c0f0e1502f074602.webp',
