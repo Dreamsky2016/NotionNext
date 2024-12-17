@@ -63,7 +63,7 @@ const CONFIG = {
       img_1: '/images/heo/SDL.png',
       color_1: '#989bf8',
       title_2: 'Sketch',
-      img_2: '/images/heo/2023e0ded7b724a39f12d59c3dc8fbdc7cbe074202.webp',
+      img_2: '/images/heo/yhzb.png',
       color_2: '#ffffff'
     },
     {
@@ -79,7 +79,7 @@ const CONFIG = {
       img_1: '/images/heo/shcs.png',
       color_1: '#ffffff',
       title_2: 'Python',
-      img_2: '/images/heo/20235c0731cd4c0c95fc136a8db961fdf963071502.webp',
+      img_2: '/images/heo/kytj.png',
       color_2: '#ffffff'
     },
     {
@@ -95,7 +95,7 @@ const CONFIG = {
       img_1: '/images/heo/HGYJ.png',
       color_1: '#f29e39',
       title_2: 'CSS3',
-      img_2: '/images/heo/20237c548846044a20dad68a13c0f0e1502f074602.webp',
+      img_2: '/images/heo/cjyyj.png',
       color_2: '#2c51db'
     },
     {
@@ -108,7 +108,7 @@ const CONFIG = {
     },
     {
       title_1: 'Git',
-      img_1: '/images/heo/2023ffa5707c4e25b6beb3e6a3d286ede4c6071102.webp',
+      img_1: '/images/heo/2023ffa5707ggn.png',
       color_1: '#df5b40',
       title_2: 'Rhino',
       img_2: '/images/heo/20241217221428.png',
