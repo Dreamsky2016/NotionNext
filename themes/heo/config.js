@@ -108,7 +108,7 @@ const CONFIG = {
     },
     {
       title_1: 'Git',
-      img_1: '/images/heo/2023ffa5707ggn.png',
+      img_1: '/images/heo/ggn.png',
       color_1: '#df5b40',
       title_2: 'Rhino',
       img_2: '/images/heo/20241217221428.png',
