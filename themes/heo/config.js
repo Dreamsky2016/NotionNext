@@ -68,7 +68,7 @@ const CONFIG = {
     },
     {
       title_1: 'Docker',
-      img_1: '/images/heo/20231108a540b2862d26f8850172e4ea58ed075102.webp',
+      img_1: '/images/heo/ljyy.png',
       color_1: '#57b6e6',
       title_2: 'Photoshop',
       img_2: '/images/heo/AITY.png',
@@ -84,10 +84,10 @@ const CONFIG = {
     },
     {
       title_1: 'Swift',
-      img_1: '/images/heo/202328bbee0b314297917b327df4a704db5c072402.webp',
+      img_1: '/images/heo/winwin.png',
       color_1: '#eb6840',
       title_2: 'Principle',
-      img_2: '/images/heo/2023f76570d2770c8e84801f7e107cd911b5073202.webp',
+      img_2: '/images/heo/ltsz.png',
       color_2: '#8f55ba'
     },
     {
@@ -100,7 +100,7 @@ const CONFIG = {
     },
     {
       title_1: 'JS',
-      img_1: '/images/heo/20241217221428.png',
+      img_1: '/images/heo/jslh.png',
       color_1: '#f7cb4f',
       title_2: 'HTML',
       img_2: '/images/heo/202372b4d760fd8a497d442140c295655426070302.webp',
@@ -111,7 +111,7 @@ const CONFIG = {
       img_1: '/images/heo/2023ffa5707c4e25b6beb3e6a3d286ede4c6071102.webp',
       color_1: '#df5b40',
       title_2: 'Rhino',
-      img_2: '/images/heo/20231ca53fa0b09a3ff1df89acd7515e9516173302.webp',
+      img_2: '/images/heo/20241217221428.png',
       color_2: '#1f1f1f'
     }
   ],
