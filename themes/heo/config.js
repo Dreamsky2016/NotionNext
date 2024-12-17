@@ -25,7 +25,7 @@ const CONFIG = {
   HEO_HERO_TITLE_5: '轻松掌握政策与市场趋势',
   HEO_HERO_TITLE_LINK: 'https://www.richtree.cc/',
   // 英雄区遮罩文字
-  HEO_HERO_COVER_TITLE: '随便逛逛',
+  HEO_HERO_COVER_TITLE: '快速阅览',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
